@@ -1,5 +1,5 @@
 
-<p align="center">Eu tenho interesse em resolver grandes desafios usando o meu conhecimento tecnológico para contribiuir com esse extenso mercado. Técnico em desenvolvimento de sistemas e entusiasmado para entrar nesse mercado, quero demonstrar toda a minha capacidade para resolver problemas complexos por meio da tecnologia. Pretendo equilibrar minha carreira profissional juntamente com o estudo contínuo, para adquirir, cada vez mais, habilidades técnicas e comunicação eficaz.</p>&nbsp;
+<p align="center">I am interested in solving major challenges using my technological knowledge to contribute to this vast market. As a systems development technician and enthusiastic about entering this market, I want to demonstrate my ability to solve complex problems through technology. I intend to balance my professional career with ongoing study to acquire increasingly more technical skills and effective communication.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -39,7 +39,7 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:contato.alex-araujo-1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.alexaraujomouraosasco@gmail.com-1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alexaraujomouraosasco@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
