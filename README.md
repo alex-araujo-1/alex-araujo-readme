@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Eu tenho interesse em resolver grandes desafios usando o meu conhecimento tecnológico para contribiuir com esse extenso mercado. Técnico em desenvolvimento de sistemas e entusiasmado para entrar nesse mercado, quero demonstrar toda a minha capacidade para resolver problemas complexos por meio da tecnologia. Pretendo equilibrar minha carreira profissional juntamente com o estudo contínuo, para adquirir, cada vez mais, habilidades técnicas e comunicação eficaz.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -40,7 +40,7 @@
 
 <div> 
 <a href = "mailto:contato.alex-araujo-1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alexaraujomouraosasco@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
